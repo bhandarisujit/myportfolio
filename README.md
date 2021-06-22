@@ -2,4 +2,4 @@
 
 This repo contains an my personnel portfolio.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio-template/).
+To view a live, [click here](https://bhandarisujit.github.io/myportfolio/).
